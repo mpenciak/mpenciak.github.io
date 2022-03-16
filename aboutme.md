@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+show-avatar: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<img align="left" src="../assets/img/penciak2.png" style="float: left; padding: 0px 30px 45px 0px">
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hello! My name is Matej Penciak, I received my Ph.D. in mathematics under the direction of Tom Nevins at UIUC.
 
-What else do you need?
+Since then I have been a Zelevinsky Postdoctoral Fellow at Northeastern University. My research is focused on **algebraic geometry**, and **integrable systems**. More recently I have gotten interested in **formalization**, and **programming languages**.
 
-### My story
+Check out my up to date [CV](../assets/pdfs/MP_CV.pdf) and all the [projects](../projects/) I've been thinking about.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Also, I am on the job market! So if any of these skills sound appealing to you, feel free to contact me <matej.penciak@gmail.com>!

@@ -14,9 +14,10 @@ author: Matej Penciak
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Projects: "projects"
   About Me: "aboutme"
-  Resources:
-    - Site's theme: "https://beautifuljekyll.com"
+  #Resources:
+  #  - Site's theme: "https://beautifuljekyll.com"
 
 # --- Logo --- #
 
@@ -72,8 +73,8 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
