@@ -30,6 +30,15 @@ As stated above, the Calogero-Moser system satisfies some property of being *int
 
 Just briefly, an integrable system is meant to model the situation that physicists often find themselves in where a physical system has enough conserved quantities to allow for the dynamics of the system to be solved by "quadratures" (integrals and solving algebraic equations). If this is the case, the functions $$H_i$$ define via the symplectic form a associated Hamiltonian vectorfields $$X_{H_i}$$, and the fact that the functions commute and are independent implies that the $$X_{H_i}$$ define an integrable distribution whose associated foliation has as its leaves the equi-value surface of all the $$H_i$$. In a future blog post I'll talk some more about the geometry of integrable systems.
 
+How do we know that the CM system is integrable? Well, we can write down the functions $$H_i$$ all at once and verify that they Poisson commute by hand! One nice trick to writing down all of the commuting Hamiltonians in this case is to find an appropriate matrix (called a Lax matrix) which generates the Hamiltonians. In this case we can take the CM Lax matrix $$L_{CM}$$ to have components $$p_i$$ along the diagonal, and $$\frac{g}{q_i - q_j}$$ in the $$(i,j)$$ component. I now claim that all the commuting Hamiltonians are of the form
+
+$$
+H_k = \frac{1}{k} \mathop{Tr} L_{CM}^k.
+$$
+
+(up to constants/signs that I probably messed up). I encourage the reader to check that $$H_2$$ is (again, up to some constants) exactly the Hamiltonian we started with.
+
+Of course this is not a very satisfying explanation for the integrability of the CM system, and in some sense the whole point of this extended example is to explain where exactly all of these formulas come from.
 ## Next time
 
 In the next post I will introduce the issue that we want to view the $$N$$ particles as indistinguishable, and so the above phase space needs to be modified. By the end we will have a nice geometric description of the Calogero Moser integrable system.
