@@ -12,8 +12,6 @@ Since then I have been a Zelevinsky Postdoctoral Fellow at Northeastern Universi
 
 Check out my up to date [CV](../assets/pdfs/MP_CV.pdf) and all the [projects](../projects/) I've been thinking about.
 
-Also, I am on the job market! So if any of these skills sound appealing to you, feel free to contact me <matej.penciak@gmail.com>!
-
 ## Technical proficiencies
 
 * Python, together with common scientific computing, quantum computing, and machine learning packages like SciPy, Qiskit, and PyTorch.
