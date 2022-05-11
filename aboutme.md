@@ -1,25 +1,22 @@
 ---
-layout: page
+layout: aboutme
 title: About me
 show-avatar: false
+jobs:
+    - name: Software Engineer at Yatima Inc. 
+      dates: May 2022 - Now
+    - name: Zelevinsky Postdoctoral Fellow at Northeastern University. 
+      dates: Aug. 2019 - May 2022
+    - name: TA and RA at University of Illinois at Urbana Champaign 
+      dates: Aug. 2012 - May 2019
+css:
+    - "/assets/css/aboutme.css"
 ---
 
-<img align="left" src="../assets/img/penciak2.png" style="float: left; padding: 0px 30px 45px 0px">
+My name is Matej Penciak, and I am currently a software engineer at [Yatima](https://github.com/yatima-inc) where I'm helping build the tools for a safe and trusted decentralized web.
 
-Hello! My name is Matej Penciak, I received my Ph.D. in mathematics under the direction of Tom Nevins at UIUC.
+I'm interested in **formal verification**, **proof formalization**, and how they interact.
 
-Since then I have been a Zelevinsky Postdoctoral Fellow at Northeastern University. My research is focused on **algebraic geometry**, and **integrable systems**. More recently I have gotten interested in **formalization**, and **programming languages**.
+Before this I was a research mathematician interested in **algebraic geometry**, and **integrable systems**. I still like to dabble in the field.
 
 Check out my up to date [CV](../assets/pdfs/MP_CV.pdf) and all the [projects](../projects/) I've been thinking about.
-
-## Technical proficiencies
-
-* Python, together with common scientific computing, quantum computing, and machine learning packages like SciPy, Qiskit, and PyTorch.
-* Dependently typed functional programming languages like Lean.
-* Haskell.
-* Computer algebra software like Mathematica, Maple, and MATLAB.
-
-## Work experience
-
-* Zelevinsky Postdoctoral Fellow at Northeastern University. _Aug. 2019 - Now_
-* Teaching and Research Assistant at the University of Illinois at Urbana Champaign _Aug. 2012 - May 2019_

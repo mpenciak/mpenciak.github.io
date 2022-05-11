@@ -8,7 +8,7 @@ Here are some of the projects I'm working on:
 
 In the Fall of 2021 I began my journey in using [Lean](https://leanprover.github.io/). Since then I have learned a ton, and am actively working on a couple projects in the area:
 
-* I am running a [Learning Lean Seminar](https://github.com/mpenciak/Lean-Seminar-Sp2022) at Northeastern University in Spring 2022. The focus of the seminar is to get undergraduates (and anyone else who is interested) up to speed with using Lean to formalize aspects of the undergraduate math curriculum, and maybe eventually get it up on mathlib.
+* I ran a [Learning Lean Seminar](https://github.com/mpenciak/Lean-Seminar-Sp2022) at Northeastern University in Spring 2022. The focus of the seminar was to get undergraduates (and anyone else who is interested) up to speed with using Lean to formalize aspects of the undergraduate math curriculum, and maybe eventually get it up on mathlib. We got part of the way there.
 
 * My first nontrivial (and in progress) formalization project is contained [here](https://github.com/mpenciak/flatstuff) wherein I formalize the proof of the equivalence of a few definitions for **flat modules** in Lean. The intention is that this will eventually get merged with mathlib.
 
@@ -21,10 +21,6 @@ A couple math things that I have been stewing over:
 * Realizing the Lax matrix for the 2D double elliptic integrable system as a Higgs field for something like an "elliptic Hitchin system".
 
 Projects nearer to completion will have preprints available. Unavailable preprints can be made available upon request.
-
-## Haskell programming
-
-My goal is to try to solve as many of the Advent of Code puzzles in the Haskell programming language! Checkout my progress at [Advent of Code in Haskell](https://github.com/mpenciak/haskell_aoc).
 
 ## My Papers
 
