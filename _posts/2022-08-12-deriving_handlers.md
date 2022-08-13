@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Automatically deriving typeclass instances"
+subtitle: "A dive into Lean 4's metaprogramming"
+---
+
 ## What are deriving handlers?
 
 Lets begin by looking at a very simple example of this metaprogramming tool Lean has implemented. If the user defines an enumerated data type with the keywords `deriving BEq`
