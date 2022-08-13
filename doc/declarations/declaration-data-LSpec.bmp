@@ -1,1 +1,0 @@
-{"name":"LSpec","instances":[],"imports":["Init","LSpec.LSpec","LSpec.Instances","LSpec.SlimCheck.Checkable"],"declarations":[]}
