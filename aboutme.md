@@ -3,7 +3,7 @@ layout: aboutme
 title: About me
 show-avatar: false
 jobs:
-    - name: Software Engineer at Yatima Inc. 
+    - name: Software Engineer at Lurk Lab. 
       dates: May 2022 - Now
     - name: Zelevinsky Postdoctoral Fellow at Northeastern University. 
       dates: Aug. 2019 - May 2022
@@ -13,7 +13,7 @@ css:
     - "/assets/css/aboutme.css"
 ---
 
-My name is Matej Penciak, and I am currently a software engineer at [Yatima](https://github.com/yatima-inc) where I'm helping build the tools for a safe and trusted decentralized web.
+My name is Matej Penciak, and I am currently a software engineer at [Lurk Lab](https://github.com/lurk-lab) where I'm helping build the tools for a safe and trusted decentralized web.
 
 I'm interested in **formal verification**, **proof formalization**, and how they interact.
 
